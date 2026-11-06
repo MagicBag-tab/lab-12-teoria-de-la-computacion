@@ -11,6 +11,10 @@ y las implementaciones en JavaScript de los problemas 2, 3 y 4.
 
 La respuesta del problema 1 se encuentra en la carpeta `Problema_1`.
 
+## Video
+
+[Ver video del laboratorio en YouTube](https://youtu.be/NYeLJgbUvEQ)
+
 ## Ejecución
 
 No se necesitan dependencias externas. Desde la raíz del proyecto, ejecuta:
